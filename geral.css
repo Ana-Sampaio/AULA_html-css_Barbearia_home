@@ -84,11 +84,11 @@ nav a:hover{
 	width: 40%;
 	display: inline-block;
 	vertical-align: top;
-	list-style: none;
 }
 .itens{
 	line-height: 1.5;
-	font-size: 18px; 
+	font-size: 18px;
+	list-style: none;
 }
 .itens:nth-child(1){		
 	font-weight: bold;
